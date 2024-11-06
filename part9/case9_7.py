@@ -12,6 +12,3 @@ class Admin(User):
         for i in self.privilege:
             print(f"\t-{i}")
             
-
-Yusuf = Admin("Yusuf", "mukhammadov", "first time work this type work")
-Yusuf.show_privilege()
