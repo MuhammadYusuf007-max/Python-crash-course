@@ -1,0 +1,3 @@
+In python we learn about data sets.
+In python we learn about lists tuples, dictionaries and others.
+in python we learn about object-oriented programming.
