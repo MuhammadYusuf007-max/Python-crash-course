@@ -1,0 +1,13 @@
+places = ["makka", "abu-dabi", "quddus", "paris", "new-York"]
+print(places)
+print(sorted(places))
+print(places)
+print(sorted(places, reverse=True))
+print(places)
+places.reverse()
+print(places)
+places.reverse()
+print(places)
+places.sort()
+print(places)
+places.sort(reverse=True)
